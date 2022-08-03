@@ -39,3 +39,18 @@ $ GIT_USER=<Your GitHub username> yarn deploy
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+
+## Notes
+
+### Pre-requisites
+
+- git
+- nvm, node, npm, yarn 3
+- vscode
+
+### Set-up
+
+```sh
+yarn create docusaurus@latest rexydocs classic --typescript
+```
+
