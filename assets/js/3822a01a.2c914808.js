@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrexydocs=self.webpackChunkrexydocs||[]).push([[7240],{9043:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/rexydocs/blog/tags/docusaurus","allTagsPath":"/rexydocs/blog/tags","count":4}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrexydocs=self.webpackChunkrexydocs||[]).push([[9762],{3555:e=>{e.exports=JSON.parse('{"permalink":"/rexydocs/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

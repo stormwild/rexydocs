@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrexydocs=self.webpackChunkrexydocs||[]).push([[7810],{946:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/rexydocs/blog/tags/hello","allTagsPath":"/rexydocs/blog/tags","count":2}')}}]);
